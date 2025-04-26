@@ -6,7 +6,14 @@
     "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "node",
+    "javascript",
+    "css",
+    "electron",
+    "npm",
+    "widget"
+  ],
   "author": "Daniel Berkal",
   "license": "MIT",
   "description": "A widget for your desktop to play locally stored music",
