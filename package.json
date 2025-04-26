@@ -1,0 +1,16 @@
+{
+  "name": "musicwidget",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Berkal",
+  "license": "ISC",
+  "description": "A widget for your desktop to play locally stored music",
+  "dependencies": {
+    "electron": "^35.2.1"
+  }
+}
