@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Daniel Berkal",
-  "license": "ISC",
+  "license": "MIT",
   "description": "A widget for your desktop to play locally stored music",
   "dependencies": {
     "electron": "^35.2.1"
